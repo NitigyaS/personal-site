@@ -1,0 +1,31 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: Event Management
+  descr: "Website to allow user to create his own Event and Manage the guestlist. The goal was to create a full fledge Micro Service application runnin on cloud in containers and fully controlled with CI/CD"
+  tags:
+    - tag: Python
+    - tag: GCP
+    - tag: Docker
+    - tag: Kubernetes
+    - tag: Flask
+
+- name: EarlyRetired.me (Coming Soon)
+  descr: "Website to help people, Retire Early and live life 20 years extra"
+  # demo: https://ealryretired.me/
+  tags:
+    - tag: Jekyll
+    - tag: HTML
+    - tag: CSS

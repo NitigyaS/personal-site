@@ -1,0 +1,28 @@
+# > name: Name of your programming language
+# > weight: Describes how good you know the language - values from 1 up to 5
+#
+# Example of a Language
+# - name: Language
+#   weight: 5
+
+- name: Gitlab CI/CD
+  weight: 5
+
+- name: Ansible
+  weight: 3
+
+
+- name: AWS
+  weight: 2
+
+- name: Kubernetes
+  weight: 3
+
+- name: GCP
+  weight: 1
+
+- name: Docker
+  weight: 3
+
+- name: Azure
+  weight: 1

@@ -1,0 +1,31 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+- name: Prometheus
+  weight: 5
+
+
+- name: Jmeter
+  weight: 2
+
+- name: Splunk
+  weight: 4
+
+- name: Grafana
+  weight: 4
+
+- name: Incident Management
+  weight: 5
+
+- name: Postmorterm
+  weight: 3
+
+- name: Capacity Planning
+  weight: 2
+
+- name: Chaos Engineering
+  weight: 2
